@@ -1,2 +1,4 @@
-# AI-Cosmic-Observatory
-An AI-powered pipeline using PyTorch to predict galaxy distances (redshift) from starlight, mapped into a live, interactive 3D universe using Pygame. 🌌
+# 🌌 AI Cosmic Observatory
+**An AI-powered pipeline that uses deep neural networks to predict galaxy distances from starlight and maps them into a live, interactive 3D universe.**
+
+*Built for the 2026 "Built with Python" Hackathon!* 🚀
